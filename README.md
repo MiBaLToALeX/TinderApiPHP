@@ -1,2 +1,2 @@
 # TinderApiPHP
-http://localhost/tinderapi/?data=options
+http://localhost/tinderapi.php?data=options,{userID},...
